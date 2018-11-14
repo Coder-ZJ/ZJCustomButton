@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		0A36A8EF219BB90300BABFB3 /* UIButton+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A36A8EE219BB90300BABFB3 /* UIButton+Extension.m */; };
-		0A36A9B5219C362700BABFB3 /* 效果图.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0A36A9B4219C362600BABFB3 /* 效果图.jpg */; };
 		0A909A80219ADA3400B8AE1E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A909A7F219ADA3400B8AE1E /* AppDelegate.m */; };
 		0A909A83219ADA3400B8AE1E /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A909A82219ADA3400B8AE1E /* ViewController.m */; };
 		0A909A86219ADA3400B8AE1E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A909A84219ADA3400B8AE1E /* Main.storyboard */; };
@@ -40,7 +39,6 @@
 /* Begin PBXFileReference section */
 		0A36A8ED219BB90300BABFB3 /* UIButton+Extension.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIButton+Extension.h"; sourceTree = "<group>"; };
 		0A36A8EE219BB90300BABFB3 /* UIButton+Extension.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIButton+Extension.m"; sourceTree = "<group>"; };
-		0A36A9B4219C362600BABFB3 /* 效果图.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "效果图.jpg"; sourceTree = "<group>"; };
 		0A909A7B219ADA3400B8AE1E /* CustomDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CustomDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A909A7E219ADA3400B8AE1E /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		0A909A7F219ADA3400B8AE1E /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -108,7 +106,6 @@
 		0A909A7D219ADA3400B8AE1E /* CustomDemo */ = {
 			isa = PBXGroup;
 			children = (
-				0A36A9B4219C362600BABFB3 /* 效果图.jpg */,
 				0A909AB0219ADAA900B8AE1E /* collect_icon.png */,
 				0A909A7E219ADA3400B8AE1E /* AppDelegate.h */,
 				0A909A7F219ADA3400B8AE1E /* AppDelegate.m */,
@@ -248,7 +245,6 @@
 			files = (
 				0A909A8B219ADA3500B8AE1E /* LaunchScreen.storyboard in Resources */,
 				0A909AB1219ADAA900B8AE1E /* collect_icon.png in Resources */,
-				0A36A9B5219C362700BABFB3 /* 效果图.jpg in Resources */,
 				0A909A88219ADA3500B8AE1E /* Assets.xcassets in Resources */,
 				0A909A86219ADA3400B8AE1E /* Main.storyboard in Resources */,
 			);
